@@ -15,9 +15,9 @@ Content goes here
     - Google Colab
 
 - **Library Used**:
-    - Python
-    - Jupyter Notebook
-    - Google Colab
+    - numpy
+    - pandas
+    - scikit-learn
 
 
 
