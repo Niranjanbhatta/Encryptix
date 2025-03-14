@@ -5,7 +5,9 @@ This repository is created solely to track tasks assigned by 'Encryptix' for the
 
 ## Task Completed 
 
-- **Movie Genre Classification**: Train a model to determine the genre of any movie based on description of the movie
+- **Movie Genre Classification**: Train a model to determine the genre of any movie based on description of the movie.
+
+- **Credit Card Fraud Detection**: Working on it.
 
 
 ## Technology 
