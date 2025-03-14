@@ -1,7 +1,7 @@
 # Task for Encryptix
 
 ## Project Overview
-Content goes here
+This repository is created solely to track tasks assigned by 'Encryptix' for the Machine Learning internship.
 
 ## Task Completed 
 
