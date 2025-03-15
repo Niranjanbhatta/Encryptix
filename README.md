@@ -58,4 +58,4 @@ This repository is a collection of machine learning projects, experiments, and r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Niranjanbhatta/Encryptix
+   git clone https://github.com/Niranjanbhatta/AI_and_ML
