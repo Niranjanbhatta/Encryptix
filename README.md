@@ -39,13 +39,6 @@ This repository is a collection of machine learning projects, experiments, and r
     <li><b>Libraries Used:</b> NumPy, Pandas, Scikit-learn.</li>
 </ul>
 
-<h2 align="center">🚀 Future Enhancements</h2>
-<ul>
-    <li>Implementing research papers in ML & AI.</li>
-    <li>Fine-tuning and optimizing state-of-the-art models.</li>
-    <li>Contributing to open-source ML projects.</li>
-</ul>
-
 <h2 align="center">🔧 Setup</h2>
 <ol>
     <li>Clone the repository:</li>

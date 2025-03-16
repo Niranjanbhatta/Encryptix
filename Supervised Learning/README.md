@@ -26,8 +26,3 @@ Supervised learning is a fundamental technique in machine learning where models 
     <li><b>Movie Genre Classification:</b> Train a model to determine the genre of any movie based on its description using supervised learning.</li>
 </ul>
 
-<h2 align="center">🛠️ Technology</h2>
-<ul>
-    <li><b>Tools Used:</b> Python, Jupyter Notebook, Google Colab.</li>
-    <li><b>Libraries Used:</b> NumPy, Pandas, Scikit-learn.</li>
-</ul>
