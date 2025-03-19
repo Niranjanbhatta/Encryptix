@@ -27,6 +27,7 @@ This repository is a collection of machine learning projects, experiments, and r
 <ul>
     <h4 align="center">Supervised Learning</h4> 
     <li><b>Movie Genre Classification:</b> Train a model to determine the genre of any movie based on its description using supervised learning.</li>
+    <li><b>Movie Genre Classification:</b> Train a model to determine the genre of any movie based on its description using supervised learning.</
 </ul>
 <ul>
     <h4 align="center">NLP</h4> 
