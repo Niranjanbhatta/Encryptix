@@ -27,7 +27,7 @@ This repository is a collection of machine learning projects, experiments, and r
 <ul>
     <h4 align="center">Supervised Learning</h4> 
     <li><b>Movie Genre Classification:</b> Train a model to determine the genre of any movie based on its description using supervised learning.</li>
-</ul>
+    <li><b>Spam Detection:</b> Train a model to determine whether the message is spam or not based on the message sent/received using supervised learning.</li>
 <ul>
     <h4 align="center">NLP</h4> 
     <li><b>Text Classification:</b> Use pre-existing technologies to classifify different section of CV like Name, Skills, Projects and work-experience in organized way.</li>
