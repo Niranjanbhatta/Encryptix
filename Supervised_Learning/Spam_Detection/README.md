@@ -12,3 +12,16 @@ The objective of this project is to develop a machine learning model that detect
     <li><b>Evaluation Metrics:</b> Model performance is assessed using accuracy score and a classification report.</li>
     <li><b>Pipeline Saving:</b> The trained model, including the vectorizer, is saved as a pickle file in the <code>Model_Trained</code> directory.</li>
 </ul>
+
+<h2 align="center">🧠 Concepts Used</h2>
+
+<h3>Natural Language Processing (NLP)</h3>
+<ul>
+    <li><b>TF-IDF:</b> A numerical statistic used to convert text messages into a weighted feature representation.</li>
+</ul>
+
+<h3>Machine Learning</h3>
+<ul>
+    <li><b>Naïve Bayes (MultinomialNB):</b> A probabilistic classification algorithm used for text-based spam detection.</li>
+    <li><b>Pipeline Management:</b> Combining text processing and classification steps into a single workflow for efficient training and prediction.</li>
+</ul>
