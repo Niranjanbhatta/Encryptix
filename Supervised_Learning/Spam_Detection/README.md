@@ -34,3 +34,10 @@ The objective of this project is to develop a machine learning model that detect
     <li>Evaluate model performance using accuracy score and classification report.</li>
     <li>Save the trained pipeline in the <code>Model_Trained</code> directory.</li>
 </ul>
+
+<h2 align="center">🎯 Expected Outcomes</h2>
+<ul>
+    <li>A trained machine learning model capable of classifying spam and non-spam messages with high accuracy.</li>
+    <li>An automated and structured approach to spam detection.</li>
+    <li>A reusable model pipeline for further improvements and integrations.</li>
+</ul>
