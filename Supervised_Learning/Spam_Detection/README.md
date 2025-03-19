@@ -25,3 +25,12 @@ The objective of this project is to develop a machine learning model that detect
     <li><b>Naïve Bayes (MultinomialNB):</b> A probabilistic classification algorithm used for text-based spam detection.</li>
     <li><b>Pipeline Management:</b> Combining text processing and classification steps into a single workflow for efficient training and prediction.</li>
 </ul>
+
+<h2 align="center">⚙️ Approach</h2>
+<ul>
+    <li>Load text message data from a JSON file.</li>
+    <li>Preprocess data and apply TF-IDF vectorization.</li>
+    <li>Train a Naïve Bayes (MultinomialNB) model on the transformed data.</li>
+    <li>Evaluate model performance using accuracy score and classification report.</li>
+    <li>Save the trained pipeline in the <code>Model_Trained</code> directory.</li>
+</ul>
