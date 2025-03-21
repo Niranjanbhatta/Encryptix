@@ -20,7 +20,7 @@ The objective of this project is to develop a machine learning model that detect
     <li><b>TF-IDF:</b> A numerical statistic used to convert text messages into a weighted feature representation.</li>
 </ul>
 
-<h3>Machine Learning</h3>
+<h3 align="center">Machine Learning</h3>
 <ul>
     <li><b>Naïve Bayes (MultinomialNB):</b> A probabilistic classification algorithm used for text-based spam detection.</li>
     <li><b>Pipeline Management:</b> Combining text processing and classification steps into a single workflow for efficient training and prediction.</li>
