@@ -20,7 +20,7 @@ The objective of this project is to develop a machine learning model that classi
     <li><b>TF-IDF:</b> A numerical statistic to convert textual data into a weighted feature representation.</li>
 </ul>
 
-<h3>Machine Learning</h3>
+<h3 >Machine Learning</h3>
 <ul>
     <li><b>Logistic Regression:</b> A classification algorithm used to predict the probability of a movie belonging to one or more genres.</li>
     <li><b>Pipeline Management:</b> Encapsulating the NLP and classification workflow for smooth training and prediction processes.</li>
