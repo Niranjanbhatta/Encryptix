@@ -13,14 +13,14 @@ The objective of this project is to develop a machine learning model that classi
 </ul>
 
 <h2 align="center">🧠 Concepts Used</h2>
-<h3>Natural Language Processing (NLP)</h3>
+<h3 align="center">Natural Language Processing (NLP)</h3>
 <ul>
     <li><b>Tokenization:</b> Splitting movie descriptions into words or phrases for processing.</li>
     <li><b>Stop-word Removal:</b> Filtering out common words to focus on meaningful content.</li>
     <li><b>TF-IDF:</b> A numerical statistic to convert textual data into a weighted feature representation.</li>
 </ul>
 
-<h3>Machine Learning</h3>
+<h3 align="center" >Machine Learning</h3>
 <ul>
     <li><b>Logistic Regression:</b> A classification algorithm used to predict the probability of a movie belonging to one or more genres.</li>
     <li><b>Pipeline Management:</b> Encapsulating the NLP and classification workflow for smooth training and prediction processes.</li>
