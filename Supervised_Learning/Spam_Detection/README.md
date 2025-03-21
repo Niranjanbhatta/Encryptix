@@ -15,7 +15,7 @@ The objective of this project is to develop a machine learning model that detect
 
 <h2 align="center">🧠 Concepts Used</h2>
 
-<h3>Natural Language Processing (NLP)</h3>
+<h3 align="center">Natural Language Processing (NLP)</h3>
 <ul>
     <li><b>TF-IDF:</b> A numerical statistic used to convert text messages into a weighted feature representation.</li>
 </ul>
